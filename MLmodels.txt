@@ -1,0 +1,10 @@
+Classification:
+Random forest Classifier
+KNN
+Logistic Regression
+Linear Support Vector Classification.
+
+
+Regression:
+Random forest Regressor
+Linear Regression
